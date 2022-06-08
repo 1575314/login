@@ -1,0 +1,32 @@
+.card{
+ 
+    background: linear-gradient(36deg, #1a71a490 8%, #ce455e90 80%)!important;
+}
+
+.form{
+    width: 270px;
+}
+
+.form-input{
+    width: 50%;
+}
+
+.MuiFormLabel-root{
+    color: #FFFFFF;
+}
+
+.form-title{
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.background{
+    background-image: url("https://img.freepik.com/fotos-gratis/tulipas-no-fundo-rosa-vista-plana-leigos_24972-329.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    width: 100vw;
+    min-height: calc(100vh - 64px); 
+
+}
